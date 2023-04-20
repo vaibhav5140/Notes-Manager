@@ -167,11 +167,11 @@ exports.submitSearch=async(req,res)=>{
     console.log(error)
   }
 }
-exports.deleteAll=async(req,res)=>{
-  try{
-    console.log("delteing.....")
-  await Note.deleteMany({});
-  }catch(error){
-    console.log(error);
-  }
-}
+// exports.deleteAll=async(req,res)=>{
+//   try{
+//     console.log("delteing.....")
+//   await Note.deleteMany({});
+//   }catch(error){
+//     console.log(error);
+//   }
+// }
