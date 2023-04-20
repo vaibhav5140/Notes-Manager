@@ -1,5 +1,5 @@
-                                                                 NOTES-MANAGER
-                                                         (Built Using Node.js,EJS,MongoDB)
+                                                           NOTES-MANAGER
+                                                  (Built Using Node.js,EJS,MongoDB)
 ![Screenshot (298)](https://user-images.githubusercontent.com/85643531/233284568-e23e6c7c-fe11-41e8-8ec9-60db947f1de2.png)
 This is the home page for our Notes webApp we can sign in /sign up to our account.
 <br>
